@@ -2,15 +2,21 @@ Please run the following commands in your terminal so that you can use this proj
 ```
 composer install
 ```
+npm:
+```
 npm install
-```
 npm audit fix
-```
 npm run dev
+```
+migration:
 ```
 php artisan migrate:fresh --seed
 ```
+Key app generation:
+```
 php artisan key:generate
+```
+run app:
 ```
 php artisan serve
 ```
