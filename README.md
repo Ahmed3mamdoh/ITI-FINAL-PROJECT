@@ -4,7 +4,6 @@ composer install
 ```
 npm:
 ```
-npm install
 npm audit fix
 npm run dev
 ```
